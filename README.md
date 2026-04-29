@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/27205812/README.md)
 # Codex 从零安装与扩展指南
 
 > 适用目标：从一台没有 Codex 的新机器开始，完成 Codex CLI 安装、登录、验证，并了解如何继续安装 MCP、Skill、Plugin 等扩展能力。  
